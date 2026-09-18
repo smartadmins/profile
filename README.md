@@ -1,49 +1,30 @@
-┌─────────────────────────────────────────────┐
-│  SUDHEESH K                                 │
-│  Senior Infrastructure | Cloud | DevOps     │
-├─────────────────────────────────────────────┤
-│  ☁ AWS / GCP       ☸ Kubernetes             │
-│  🐳 Docker         🏗 Terraform              │
-│  🔄 CI/CD          🔐 Security               │
-│  📊 Monitoring     🐧 Linux                  │
-└─────────────────────────────────────────────┘
+# 👋 Hi, I'm Sudheesh K
 
-ABOUT ME
-──────────────────────────────────────────────
-Infrastructure professional with 20+ years of
-experience in systems, networking, cloud and
-platform engineering.
+### Senior Infrastructure Lead | Cloud & DevOps Engineer | Kubernetes | AWS | GCP
 
-Currently focused on:
-• Cloud infrastructure
-• Kubernetes & containers
-• CI/CD automation
-• Infrastructure as Code
-• GitOps
-• Monitoring & observability
-• Network & security infrastructure
+> Building reliable infrastructure, automating deployments, and moving traditional IT operations toward modern Cloud & DevOps practices.
 
-TECHNOLOGY
-──────────────────────────────────────────────
-AWS • GCP • Azure • Kubernetes • Docker
-Terraform • Jenkins • GitHub Actions
-ArgoCD • Ansible • Linux • FortiGate
-Prometheus • Grafana • MySQL • NGINX
+---
 
-FEATURED PROJECTS
-──────────────────────────────────────────────
-🚀 Zepto Quick Commerce
-☸ Kubernetes Platform
-🐳 Docker / Container Projects
-🔄 GitHub Actions CI/CD
-🏗 Terraform Infrastructure
-🔐 Cloud Security & WIF
+## 🚀 About Me
 
-CURRENTLY LEARNING
-──────────────────────────────────────────────
-GCP • Kubernetes • GitOps • Platform Engineering
-Cloud Security • Advanced CI/CD
+I'm an **Infrastructure & DevOps professional with 20+ years of experience** across:
 
-CERTIFICATIONS
-──────────────────────────────────────────────
-RHCE • CCNA • VMware • MCP
+* 🖥️ System & Network Administration
+* ☁️ Cloud Infrastructure
+* ☸️ Kubernetes & Container Platforms
+* 🔄 CI/CD & DevOps Automation
+* 🏗️ Infrastructure as Code
+* 🔐 Network & Security Infrastructure
+* 📊 Monitoring & Observability
+
+Currently focused on building and improving **cloud-native infrastructure, Kubernetes platforms, automated CI/CD pipelines and GitOps workflows**.
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=fo)
