@@ -107,4 +107,118 @@
 
 ### 🏗️ Infrastructure as Code
 
-**Te**
+**Terraform + Cloud**
+
+* AWS
+* GCP
+* Infrastructure as Code
+* Kubernetes infrastructure
+* Networking
+* IAM
+* Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile/github-stats.svg" width="49%" />
+<img src="./profile/top-languages.svg" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smartadmins&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+<div align="center">
+
+```text
+☁️ Cloud Infrastructure
+☸️ Kubernetes
+🏗️ Terraform / IaC
+🔄 CI/CD
+🚀 GitOps / ArgoCD
+🔐 Cloud & Container Security
+📊 Observability
+🐳 Container Platforms
+```
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+  <img alt="GitHub contribution snake" src="./dist/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| Certification | Area            |
+| ------------- | --------------- |
+| 🔴 RHCE       | Linux / Red Hat |
+| 🔵 CCNA       | Networking      |
+| 🟣 VMware     | Virtualization  |
+| 🟢 MCP        | Microsoft       |
+
+</div>
+
+---
+
+## 💼 Professional Strengths
+
+<div align="center">
+
+**Infrastructure Management** • **Cloud Engineering** • **DevOps**
+**Kubernetes** • **Automation** • **Networking** • **Security**
+**Leadership** • **Communication** • **Problem Solving**
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://github.com/smartadmins">
+<img src="https://img.shields.io/badge/GitHub-smartadmins-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://smartadmins.in">
+<img src="https://img.shields.io/badge/Website-smartadmins.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Infrastructure → Automation → Cloud → DevOps
+
+**Build • Automate • Secure • Monitor • Improve**
+
+</div>
