@@ -1,0 +1,358 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="720" viewBox="0 0 1500 720">
+
+  <defs>
+
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+
+      <stop offset="0%" stop-color="#07101c"></stop>
+      <stop offset="100%" stop-color="#101a2b"></stop>
+
+    </linearGradient>
+
+
+    <linearGradient id="connection" x1="0%" y1="0%" x2="100%" y2="0%">
+
+      <stop offset="0%" stop-color="#58a6ff"></stop>
+      <stop offset="100%" stop-color="#7ee787"></stop>
+
+    </linearGradient>
+
+
+    <filter id="shadow">
+
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.28"></feDropShadow>
+
+    </filter>
+
+  </defs>
+
+
+  <!-- Background -->
+
+  <rect width="1500" height="720" rx="24" fill="url(#background)"></rect>
+
+
+  <!-- Title -->
+
+  <text x="750" y="50" text-anchor="middle" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">
+
+    CLOUD &amp; DEVOPS PLATFORM
+
+  </text>
+
+
+  <!-- ========================= -->
+  <!-- SOURCE -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="60" y="90" width="270" height="100" rx="16" fill="#0d1626" stroke="#58a6ff" stroke-width="2"></rect>
+
+    <text x="195" y="125" text-anchor="middle" fill="#58a6ff" font-family="Arial" font-size="20" font-weight="700">
+
+      SOURCE
+
+    </text>
+
+    <text x="195" y="158" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18">
+
+      GitHub • Git
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- CI/CD -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="390" y="90" width="310" height="100" rx="16" fill="#0d1626" stroke="#7ee787" stroke-width="2"></rect>
+
+    <text x="545" y="125" text-anchor="middle" fill="#7ee787" font-family="Arial" font-size="20" font-weight="700">
+
+      CI / SECURITY
+
+    </text>
+
+    <text x="545" y="158" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18">
+
+      GitHub Actions • Jenkins • Trivy
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- REGISTRY -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="760" y="90" width="310" height="100" rx="16" fill="#0d1626" stroke="#58a6ff" stroke-width="2"></rect>
+
+    <text x="915" y="125" text-anchor="middle" fill="#58a6ff" font-family="Arial" font-size="20" font-weight="700">
+
+      CONTAINER REGISTRY
+
+    </text>
+
+    <text x="915" y="158" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18">
+
+      AWS ECR • GCP Artifact Registry
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- GITOPS -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="1140" y="90" width="300" height="100" rx="16" fill="#0d1626" stroke="#7ee787" stroke-width="2"></rect>
+
+    <text x="1290" y="125" text-anchor="middle" fill="#7ee787" font-family="Arial" font-size="20" font-weight="700">
+
+      GITOPS
+
+    </text>
+
+    <text x="1290" y="158" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18">
+
+      ArgoCD
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- TOP CONNECTIONS -->
+  <!-- ========================= -->
+
+  <g stroke="url(#connection)" stroke-width="3" fill="none">
+
+    <path d="M330 140 H390"></path>
+    <path d="M700 140 H760"></path>
+    <path d="M1070 140 H1140"></path>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- AWS -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="80" y="250" width="620" height="220" rx="18" fill="#0a1423" stroke="#58a6ff" stroke-width="2"></rect>
+
+
+    <text x="390" y="290" text-anchor="middle" fill="#58a6ff" font-family="Arial" font-size="26" font-weight="700">
+
+      AWS
+
+    </text>
+
+
+    <!-- EKS -->
+
+    <rect x="120" y="320" width="160" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="200" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      EKS
+
+    </text>
+
+    <text x="200" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Kubernetes
+
+    </text>
+
+
+    <!-- VPC -->
+
+    <rect x="320" y="320" width="160" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="400" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      VPC
+
+    </text>
+
+    <text x="400" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Networking
+
+    </text>
+
+
+    <!-- ECR -->
+
+    <rect x="520" y="320" width="140" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="590" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      ECR
+
+    </text>
+
+    <text x="590" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Registry
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- GCP -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="800" y="250" width="620" height="220" rx="18" fill="#0a1423" stroke="#7ee787" stroke-width="2"></rect>
+
+
+    <text x="1110" y="290" text-anchor="middle" fill="#7ee787" font-family="Arial" font-size="26" font-weight="700">
+
+      GCP
+
+    </text>
+
+
+    <!-- GKE -->
+
+    <rect x="840" y="320" width="160" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="920" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      GKE
+
+    </text>
+
+    <text x="920" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Kubernetes
+
+    </text>
+
+
+    <!-- VPC -->
+
+    <rect x="1040" y="320" width="160" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="1120" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      VPC
+
+    </text>
+
+    <text x="1120" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Networking
+
+    </text>
+
+
+    <!-- GAR -->
+
+    <rect x="1240" y="320" width="140" height="90" rx="12" fill="#111d2e" stroke="#30363d"></rect>
+
+    <text x="1310" y="355" text-anchor="middle" fill="#c9d1d9" font-family="Arial" font-size="18" font-weight="700">
+
+      GAR
+
+    </text>
+
+    <text x="1310" y="382" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15">
+
+      Registry
+
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- CLOUD → KUBERNETES -->
+  <!-- ========================= -->
+
+  <g stroke="url(#connection)" stroke-width="3" fill="none">
+
+    <path d="M390 470 V525"></path>
+    <path d="M1110 470 V525"></path>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- KUBERNETES -->
+  <!-- ========================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="220" y="525" width="1060" height="125" rx="18" fill="#0b1625" stroke="#58a6ff" stroke-width="2"></rect>
+
+
+    <text x="750" y="560" text-anchor="middle" fill="#58a6ff" font-family="Arial" font-size="24" font-weight="700">
+
+      KUBERNETES PLATFORM
+
+    </text>
+
+
+    <!-- Kubernetes Components -->
+
+    <g fill="#c9d1d9" font-family="Arial" font-size="16" text-anchor="middle">
+
+      <text x="320" y="605">
+        Ingress
+      </text>
+
+      <text x="470" y="605">
+        Services
+      </text>
+
+      <text x="630" y="605">
+        Deployments
+      </text>
+
+      <text x="800" y="605">
+        Config / Secrets
+      </text>
+
+      <text x="990" y="605">
+        Storage
+      </text>
+
+      <text x="1150" y="605">
+        Monitoring
+      </text>
+
+    </g>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- FOOTER -->
+  <!-- ========================= -->
+
+  <text x="750" y="690" text-anchor="middle" fill="#8b949e" font-family="Arial" font-size="15" letter-spacing="3">
+
+    TERRAFORM • DOCKER • ANSIBLE • PROMETHEUS • GRAFANA
+
+  </text>
+
+</svg>
