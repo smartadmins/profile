@@ -17,16 +17,6 @@
 </div>
 
 ---
-
-# ☁️ Cloud & DevOps Architecture
-
-<div align="center">
-
-<img src="./assets/architecture.svg" width="95%" />
-
-</div>
----
-
 # 🧰 Technology Stack
 
 <div align="center">
